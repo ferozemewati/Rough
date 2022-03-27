@@ -113,3 +113,37 @@ public class Sum {
         obj.add();
     }
 }*/
+
+
+
+/*
+
+//Hello java
+
+
+Quest:- Wap to find the sum of given any numbers by user.
+
+import java.util.Scanner;
+
+class Summ{
+   void Addd(){
+       int n1,n2;
+       int sum=0;
+       Scanner sc=new Scanner(System.in);
+       System.out.println("Enter any first number");
+       n1= sc.nextInt();
+       System.out.println("Enter any second number");
+       n2= sc.nextInt();
+       for (int i=n1; i<=n2; i++){
+           sum+=i;
+       }
+       System.out.println(sum);
+   }
+}
+public class Sum {
+   public static void main(String[] args) {
+       Summ obj=new Summ();
+       obj.Addd();
+   }
+}
+*/
