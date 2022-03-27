@@ -91,3 +91,25 @@ public class DearJava {
 }*/
 
 
+
+//Rough works
+
+
+/*Quest:- Wap to find the sum of given numbers is 0 to 10.
+class Add{
+    void add(){
+        int n1=1;
+        int n2=10;
+        int sum=0;
+        for (int i=n1; i<=n2; i++){
+            sum+=i;
+        }
+        System.out.println("Sum of the given numbers is :" +sum);
+    }
+}
+public class Sum {
+    public static void main(String[] args) {
+        Add obj=new Add();
+        obj.add();
+    }
+}*/
